@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE06ISSM-MFD37-03-DOSTAD000-recovered_host-dosta_abcdjm_ctdbp_dcl_instrument_recovered
 data_stream: CE06ISSM-MFD37-03-DOSTAD000-recovered_host-dosta_abcdjm_ctdbp_dcl_instrument_recovered
 end_date: '2021-09-20T16:30:09.396Z'
-last_updated: '2022-01-01T20:12:22.398470'
+last_updated: '2022-01-21T07:51:15.342414Z'
 start_date: '2014-10-07T20:30:20.278Z'
-status: success
+status: pending
